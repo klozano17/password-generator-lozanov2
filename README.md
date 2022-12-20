@@ -9,7 +9,7 @@ Worked on JavaScript code so that a user can generate a random password based on
 ## Usage
 
 
-![Screenshot of the webpage]
+![Screenshot of the webpage] <img src="assets/images/screenshot-ps-generator.png" alt="screenshot of page" title="Password Generator">
 
-Link to my page
+Link to my page https://klozano17.github.io/Lozano-password-generator/
 
