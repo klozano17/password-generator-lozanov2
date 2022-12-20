@@ -4,7 +4,7 @@
 ## Description
 
 
-Worked on JavaScript code so that a user can generate a random password based on teh criteria they selected. 
+Worked on JavaScript code so that a user can generate a random password based on the criteria they selected. 
 
 ## Usage
 
